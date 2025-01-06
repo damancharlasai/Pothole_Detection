@@ -30,6 +30,8 @@ Create a virtual environment:
 bash : Copy code : 
 python -m venv venv
 
+pip install -r requirements.txt
+
 Activate the virtual environment:
 #### On Windows:
 bash : Copy code : 
