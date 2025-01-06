@@ -47,6 +47,7 @@ http://127.0.0.1:5000
 
 ## Model Information
 best.pt: A PyTorch-based YOLO model trained to detect potholes.
+
 best.onnx: An ONNX-converted model for cross-platform inference.
 
 ## Technologies Used
