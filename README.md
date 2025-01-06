@@ -23,7 +23,7 @@ Virtual environment setup (recommended)
 
 Clone the repository:
 bash : Copy code
-git clone https://github.com/TharushiHansika/PotholeDetection.git
+git clone https://github.com/TharushiHansika/Pothole_Detection.git
 cd PotholeDetection
 
 Create a virtual environment:
