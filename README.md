@@ -22,27 +22,27 @@ Virtual environment setup (recommended)
 ## Installation
 
 Clone the repository:
-bash : Copy code
+bash : Copy code : 
 git clone https://github.com/TharushiHansika/Pothole_Detection.git
 cd PotholeDetection
 
 Create a virtual environment:
-bash : Copy code
+bash : Copy code : 
 python -m venv venv
 
 Activate the virtual environment:
 #### On Windows:
-bash : Copy code
+bash : Copy code : 
 venv\Scripts\activate
 
 ## Usage
 
 Start the Flask application:
-bash : Copy code
+bash : Copy code : 
 python app.py
 
 Open your browser and navigate to:
-Copy code
+Copy code : 
 http://127.0.0.1:5000
 
 ## Model Information
@@ -51,8 +51,11 @@ best.onnx: An ONNX-converted model for cross-platform inference.
 
 ## Technologies Used
 Backend: Python, Flask
+
 Frontend: HTML, CSS
+
 Deep Learning: PyTorch, ONNX
+
 Dependencies: OpenCV, Pillow, NumPy, Ultralytics YOLO
 
 ## Author
