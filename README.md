@@ -11,9 +11,14 @@ The app is implemented in Python using Flask for the web interface, and the mode
 
 ## Features
 Upload an image of a road through a simple web interface.
+
 Detect potholes in the uploaded image and highlight them with bounding boxes.
+
 Provide a message, "Potholes detected. Drive safely," for better user experience.
+
 Beautiful and responsive web design for user-friendly interaction.
+
+**Updated Model:** Includes augmented and resized training data to improve detection accuracy and robustness.
 
 ## Prerequisites
 Python 3.11
